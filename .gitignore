@@ -39,3 +39,21 @@ yarn-error.*
 # generated native folders
 /ios
 /android
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Dependency lock files (uncomment if you want to lock versions)
+# package-lock.json
+# yarn.lock
+
+# Misc
+.cache/
+.turbo/
+dist/
+build/
